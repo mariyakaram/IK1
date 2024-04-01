@@ -1,3 +1,5 @@
 IK1/bin/*
 IK1/obj/*
 IK1/IK1.csproj
+.DS_Store/*
+
